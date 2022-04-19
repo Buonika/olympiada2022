@@ -662,6 +662,7 @@ body {
   align-items: center;
   margin-top: 12px;
   font-size: 12px;
+  font-weight: 400;
   line-height: 16px;
   color: #283c54;
 }
@@ -671,7 +672,6 @@ body {
   width: 19px;
   height: 19px;
   margin: 1px 10px 1px 1px;
-  font-weight: 400;
   outline: 1px solid rgba(22, 49, 82, 0.15);
   box-sizing: border-box;
 }
